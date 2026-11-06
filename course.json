@@ -1,0 +1,31 @@
+{
+  "course_id": "ICB-H04",
+  "repository": "icb-h04-ai-skills-inference-evidence-guesswork",
+  "repository_url": "https://github.com/ICoBC/icb-h04-ai-skills-inference-evidence-guesswork",
+  "title": "AI Skills Inference: Evidence or Guesswork?",
+  "subtitle": "Inferred skill profiles compared with credentialed skills.",
+  "version": "1.0.0",
+  "series": "Horizon",
+  "skill": "Trustworthy AI in recognition",
+  "level": "3",
+  "level_name": "Enable",
+  "stage": "K",
+  "stage_name": "Knowledge",
+  "alignment_code": "ICSF-AIRC-L3-K",
+  "badge_name": "AI Skills Inference: Evidence or Guesswork? (Knowledge, L3)",
+  "hours": "2",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-h04/",
+  "parts": [
+    "About this course",
+    "How inference works",
+    "Evidence quality",
+    "Uses and risks",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 13
+}
